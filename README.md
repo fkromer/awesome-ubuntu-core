@@ -68,6 +68,8 @@ Snaps for development of machine learning models. For other tools refer to e.g. 
 
 ### MQTT clients
 
+Snaps for development of MQTT-based communication. For other tools refer to e.g. [awesome-mqtt#tools](https://github.com/hobbyquaker/awesome-mqtt#tools).
+
 - [mqtt-explorer](https://snapcraft.io/mqtt-explorer) - MQTT Client.
 - [mqttx](https://snapcraft.io/mqttx) - MQTT 5.0 Client.
 
