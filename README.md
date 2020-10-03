@@ -73,6 +73,10 @@ Snaps for development of MQTT-based communication. For other tools refer to e.g.
 - [mqtt-explorer](https://snapcraft.io/mqtt-explorer) - MQTT Client.
 - [mqttx](https://snapcraft.io/mqttx) - MQTT 5.0 Client.
 
+### ROS2
+
+- [Micro XRCE-DDS Agent](https://snapcraft.io/micro-xrce-dds-agent) - Bridge between Micro XRCE-DDS clients and DDS.
+
 ### Monitoring
 
 - [influxdb](https://snapcraft.io/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
