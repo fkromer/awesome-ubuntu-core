@@ -399,10 +399,15 @@ Snaps for development of MQTT-based communication. For other tools refer to e.g.
 
 ## Companies using Ubuntu Core
 
+- [ABB](https://global.abb/group/en) - [Ubuntu Core 20 secures Linux for IoT](https://ubuntu.com/blog/ubuntu-core-20-secures-linux-for-iot)
 - [Bosch Rexroth](https://www.boschrexroth.com) - [Bosch Rexroth adopts Ubuntu Core and snaps for app-based ctrlX AUTOMATION platform](https://ubuntu.com/blog/bosch-rexroth-adopts-ubuntu-core-and-snaps-for-app-based-ctrlx-automation-platform)
+- [DELL](https://www.dell.com/) - [The Dell Edge Gateway 3000 launches with Ubuntu Core 16](https://ubuntu.com/blog/the-dell-edge-gateway-3000-launches-with-ubuntu-core-16)
+- [Jabil](https://www.jabil.com/) - [Ubuntu Core 20 secures Linux for IoT](https://ubuntu.com/blog/ubuntu-core-20-secures-linux-for-iot)
 - [Rigado](https://www.rigado.com/) - [Reducing IoT time to market with Ubuntu Core & Snaps](https://www.youtube.com/watch?v=DbUN0tYM9WU)
 - [M2MLabs](http://www.m2mlabs.com/) - [Internet of Things: M2MLabs](https://ubuntu.com/blog/internet-of-things-m2mlabs)
 - [Mobica](https://mobica.com/) - [Mobica adopting Ubuntu Core for embedded device development](https://ubuntu.com/blog/mobica-adopting-ubuntu-core-for-embedded-device-development)
+- [Rigado](https://www.rigado.com/) - [Rigado cuts customers’ time-to-market with Ubuntu Core and AWS](https://ubuntu.com/engage/case-study-rigado)
+- [Plus One Robotics](https://plusonerobotics.com/) - [Ubuntu Core 20 secures Linux for IoT](https://ubuntu.com/blog/ubuntu-core-20-secures-linux-for-iot)
 
 ## Books
 
