@@ -1,5 +1,7 @@
 # awesome-ubuntu-core
 
+<div align="center"><img width="500" src="core_black-orange_hex.png" alt="Awesome Ubuntu Core"></div>
+
 > Build secure IoT devices with [Ubuntu Core](https://ubuntu.com/core).
 >
 > Everything you love about Ubuntu, locked down for security. Helping you make safer things – because we’re all connected.
